@@ -1,5 +1,5 @@
 # 第一部分
-### 运用到到技术
+### 运用到的技术
 - Vue
 - Vue-router
 - Element-ui
