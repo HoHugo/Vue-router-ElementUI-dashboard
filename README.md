@@ -4,7 +4,6 @@
 - Vue-router
 - Element-ui
 - webpack
-- Normalize.css
 - vue-awesome
 - babel
 # 未来
